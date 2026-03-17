@@ -1,8 +1,5 @@
 # Cyber Bank Management System  
 
-A simple C-based project that simulates a bank management system.  
-It allows users to create new customer accounts, store and update details, deposit and withdraw money, and display account information — all with secure and structured data handling.
-
 ## Features
 - Create and manage customer accounts  
 - Deposit and withdraw money  
