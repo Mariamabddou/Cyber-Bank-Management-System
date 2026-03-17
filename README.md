@@ -13,7 +13,7 @@ It allows users to create new customer accounts, store and update details, depos
 ## Tools & Technologies
 - **Language:** C  
 - **IDE:** Visual Studio
-- 
+  
 ## Project Structure
 - main.c → Main program logic and user interaction
 - encryption.c → Handles encryption and basic security functions
