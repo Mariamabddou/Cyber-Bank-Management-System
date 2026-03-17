@@ -12,10 +12,8 @@ It allows users to create new customer accounts, store and update details, depos
 
 ## Tools & Technologies
 - **Language:** C  
-- **IDE:** Visual Studio  
-- **Data Handling:** File-based storage  
-
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/CyberBank-Management-System.git
+- **IDE:** Visual Studio
+- 
+## Project Structure
+- main.c → Main program logic and user interaction
+- encryption.c → Handles encryption and basic security functions
